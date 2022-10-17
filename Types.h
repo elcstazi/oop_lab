@@ -1,0 +1,4 @@
+#pragma once
+
+enum eDirection { STOP, UP, LEFT, DOWN, RIGHT };
+enum kindOfCell {IMPASSABLE, SIMPLEPASSABLE, KEY, DOOR, TRAPLOSEKEY, HEAL, TRAPDAMAGE};
