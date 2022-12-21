@@ -1,0 +1,107 @@
+Game|WARN|incorrectly entered field parameters, the height and width will be taken by default
+Game|TRACE|the game started
+Player|INFO|The player's health has decreased
+Player|INFO|Increasing the number of player keys
+Player|INFO|Increasing the number of player keys
+Player|INFO|The player's health has decreased
+Player|INFO|The player's health has increased
+Player|INFO|Increasing the number of player keys
+Player|INFO|Increasing the number of player keys
+Player|INFO|The player's health has increased
+Controller|WARN|the player tried to move to the impassable cell
+Player|INFO|The player's health has increased
+Player|INFO|Increasing the number of player keys
+Player|INFO|Increasing the number of player keys
+Player|INFO|Increasing the number of player keys
+Player|INFO|Increasing the number of player keys
+Player|INFO|Increasing the number of player keys
+Player|INFO|The player's health has increased
+Player|INFO|Increasing the number of player keys
+Game|WARN|The game ended
+Game|WARN|incorrectly entered field parameters, the height and width will be taken by default
+Game|TRACE|the game started
+MapChange|INFO|an event occurred
+MapChange|INFO|an event occurred
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+MapChange|INFO|an event occurred
+MapChange|INFO|an event occurred
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+Player|INFO|The player's health has decreased
+TrapDamage|INFO|an event occurred
+Player|INFO|The player's health has decreased
+TrapDamage|INFO|an event occurred
+MapChange|INFO|an event occurred
+MapChange|INFO|an event occurred
+MapChange|INFO|an event occurred
+MapChange|INFO|an event occurred
+MapChange|INFO|an event occurred
+Player|INFO|The player's health has increased
+Heal|INFO|an event occurred
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+Controller|WARN|the player tried to move to the impassable cell
+MapChange|INFO|an event occurred
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+Player|INFO|The player's health has increased
+Heal|INFO|an event occurred
+MapChange|INFO|an event occurred
+MapChange|INFO|an event occurred
+Controller|WARN|the player tried to move to the impassable cell
+Controller|WARN|the player tried to move to the impassable cell
+MapChange|INFO|an event occurred
+Player|INFO|The player's health has decreased
+TrapDamage|INFO|an event occurred
+MapChange|INFO|an event occurred
+MapChange|INFO|an event occurred
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+Player|INFO|The player's health has decreased
+Player|INFO|The player dies
+TrapDamage|INFO|an event occurred
+Controller|INFO|the player loses
+Game|WARN|The game ended
+Game|WARN|incorrectly entered field parameters, the height and width will be taken by default
+Game|TRACE|the game started
+MapChange|INFO|an event occurred
+Controller|WARN|the player tried to move to the impassable cell
+Controller|WARN|the player tried to move to the impassable cell
+Controller|WARN|the player tried to move to the impassable cell
+Controller|WARN|the player tried to move to the impassable cell
+Controller|WARN|the player tried to move to the impassable cell
+Controller|WARN|the player tried to move to the impassable cell
+MapChange|INFO|an event occurred
+Player|INFO|The player's health has decreased
+TrapDamage|INFO|an event occurred
+Player|INFO|The player's health has increased
+Heal|INFO|an event occurred
+Player|INFO|The player's health has decreased
+TrapDamage|INFO|an event occurred
+MapChange|INFO|an event occurred
+Player|INFO|The player's health has decreased
+TrapDamage|INFO|an event occurred
+Controller|WARN|the player tried to move to the impassable cell
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+Controller|WARN|the player tried to move to the impassable cell
+Controller|WARN|the player tried to move to the impassable cell
+MapChange|INFO|an event occurred
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+Player|INFO|Increasing the number of player keys
+Key|INFO|an event occurred
+MapChange|INFO|an event occurred
+Player|INFO|The player's health has decreased
+Player|INFO|The player dies
+TrapDamage|INFO|an event occurred
+Controller|INFO|the player loses
+Game|WARN|The game ended
+Game|WARN|incorrectly entered field parameters, the height and width will be taken by default
+Game|TRACE|the game started
+Controller|WARN|the player tried to move to the impassable cell
+Controller|WARN|the player tried to move to the impassable cell
+Game|TRACE|the game started
